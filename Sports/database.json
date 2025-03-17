@@ -1,0 +1,60 @@
+[
+    {
+	"id":"CC0",
+        "name": "Calico Catfish",
+        "icon": "./Images/Calico.png",
+        "players" : [
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"}
+        ],
+        "mascot" : { "name" : "Caddy The Catfish", "number" : "00"},
+        "averagePoints" : 56.5, 
+        "stdDeviation" : 13.79,
+	"color1" : "gold1",
+	"color2" : "chartreuse3"
+    },
+    {
+	"id":"MR0",
+        "name": "Melville Rays",
+        "icon": "./Images/Melville.png",
+        "players" : [
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"}
+        ],
+        "mascot" : { "name" : "Monty Ray", "number" : "00"},
+        "averagePoints" : 56.5, 
+        "stdDeviation" : 50.79,
+	"color1" : "lightsalmon3",
+	"color2" : "darkseagreen1_1"
+    },
+    {
+	"id":"CM0",
+        "name": "Chattanoga Mackerels",
+        "icon": "./Images/Test.png",
+        "players" : [
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"},
+            { "name" : "Roddy Halfitch", "number" : "05"}
+        ],
+        "mascot" : { "name" : "Jack The Mack", "number" : "00"},
+        "averagePoints" : 56.5, 
+        "stdDeviation" : 2.79
+    },
+]
