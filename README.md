@@ -3,7 +3,7 @@ _Sports!_ The C# based score generation system.
 
 <sub>NormInv function based upon the code from user kmpm @ https://gist.github.com/kmpm/1211922</sub>
 
-![Screenshot of Sports! title page. Simple, but it gets the job done.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of Sports! title page. Simple, but it gets the job done.](https://github.com/docsteampunk/Sports/blob/main/MainScreen.png)
 
 ## How it works!
 _Sports!_ is a text based GUI with the only dependancy being Spectre.Console for that wonderful graphical user interface. To launch sports, run it in your console or use the included bash script. The way it works is by using the inverse of the standard normal cumulative distribution function and a random value to generate a score value. The current project right now can:
